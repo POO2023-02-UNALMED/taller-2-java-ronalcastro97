@@ -9,7 +9,7 @@ public class Auto {
     public int registro;
     public static int cantidadCreados;
 
-    public int cantidadDeAsientos() {
+    public int cantidadAsientos() {
         return asientos.length;
     }
 
